@@ -11,7 +11,7 @@ Sau khi giải nén, để thư mục "model" này trong folder project vừa Cl
 
 ## ---------- DETECT KHUÔN MẶT BẰNG MTCNN ----------
 
-## BƯỚC 3: RUN CHƯƠNG TRÌNH
+### BƯỚC 3: RUN CHƯƠNG TRÌNH
 
 Mở folder project bằng Visual Studio.
 
